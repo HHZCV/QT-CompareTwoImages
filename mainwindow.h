@@ -1,0 +1,7 @@
+
+
+#include <QMainWindow>
+void CompareTwoImages();
+
+
+
